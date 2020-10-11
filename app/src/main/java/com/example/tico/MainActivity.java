@@ -148,6 +148,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         status.setText("");
     }
     private  void resetGam(){
+        
         playerOnePoint =0 ;
         playerTwoPoint =0 ;
         updatePointsText();
